@@ -32,5 +32,4 @@ public class LionParameterizedTest {
         boolean actualDoesHaveMane = lion.doesHaveMane();
         assertEquals(expectedDoesHaveMane, actualDoesHaveMane);
     }
-
 }

@@ -13,6 +13,7 @@ import static org.hamcrest.Matchers.containsInAnyOrder;
 import static org.junit.Assert.assertEquals;
 
 @RunWith(MockitoJUnitRunner.class)
+
 public class LionAlexTest {
 
     private LionAlex lionAlex;

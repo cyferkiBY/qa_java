@@ -9,7 +9,6 @@ import static org.junit.Assert.*;
 
 @RunWith(MockitoJUnitRunner.class)
 public class AnimalTest {
-
     private Animal animal;
 
     @Before

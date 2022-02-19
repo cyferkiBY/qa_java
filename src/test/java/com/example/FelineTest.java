@@ -39,5 +39,4 @@ public class FelineTest {
         int actualKittensCount = felineSpy.getKittens();
         assertEquals(expectedKittensCount, actualKittensCount);
     }
-
 }

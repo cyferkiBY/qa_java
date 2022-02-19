@@ -33,5 +33,4 @@ public class FelineParameterizedTest {
         int actualKittensCount = feline.getKittens(kittensCount);
         assertEquals(expectedKittensCount, actualKittensCount);
     }
-
 }

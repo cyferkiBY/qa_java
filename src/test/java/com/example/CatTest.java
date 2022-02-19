@@ -15,7 +15,6 @@ import static org.junit.Assert.*;
 
 @RunWith(MockitoJUnitRunner.class)
 public class CatTest {
-
     private Cat cat;
 
     @Mock

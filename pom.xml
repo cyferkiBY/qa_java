@@ -79,19 +79,6 @@
             <version>1.3</version>
             <scope>test</scope>
         </dependency>
-
-        <!--Зависимости slf4j добавлены для того, чтобы убрать сообщение об ошибке при запуске тестов-->
-        <!--slf4j используется не мной напрямую, а другими используемыми в проекте бибилиотеками-->
-        <!--<dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>1.7.33</version>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-simple</artifactId>
-            <version>1.7.33</version>
-        </dependency>-->
     </dependencies>
 
 

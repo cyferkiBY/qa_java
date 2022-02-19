@@ -55,5 +55,4 @@ public class LionTest {
         }
         assertNotNull(String.format("Конструктор Lion() не вернул исключение для ошибочного пола '%s'", wrongSex), actualException);
     }
-
 }

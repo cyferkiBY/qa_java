@@ -11,7 +11,6 @@ import static org.hamcrest.Matchers.containsInAnyOrder;
 
 @RunWith(Parameterized.class)
 public class AnimalParameterizedTest {
-
     private final String animalKind;
     private final List<String> expectedFood;
 
