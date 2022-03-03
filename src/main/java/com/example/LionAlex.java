@@ -4,10 +4,10 @@ import java.util.List;
 
 public class LionAlex extends Lion  {
 
-    private static final String sex = "Самец";
+    private static final String SEX = "Самец";
 
     public LionAlex(Feline feline) throws Exception {
-        super(sex, feline);
+        super(SEX, feline);
     }
 
     public List<String> getFriends() {
